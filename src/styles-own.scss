@@ -1,0 +1,68 @@
+@import '../node_modules/@carbon/layout/scss/generated/_spacing.scss';
+
+.fs20{
+  font-size: 20px;
+}
+.fs18{
+  font-size: 18px;
+}
+
+.width100{
+  width: 100%;
+}
+
+.pb2{
+  padding-bottom: $spacing-02;
+}
+
+.pt2{
+  padding-top: $spacing-02;
+}
+
+.pt3{
+  padding-top: $spacing-03;
+}
+
+.pt4{
+  padding-top: $spacing-04;
+}
+
+.pt5{
+  padding-top: $spacing-05;
+}
+
+.fs25{
+  font-size: 25px;
+}
+
+.pl4{
+  padding-left: $spacing-04;
+}
+
+.pt6{
+  padding-top: $spacing-06;
+}
+
+.pb4{
+  padding-bottom: $spacing-04;
+}
+
+.pb6{
+  padding-bottom: $spacing-06;
+}
+
+.ml4{
+  margin-left: $spacing-04;
+}
+
+.mr4{
+  margin-right: $spacing-04;
+}
+.colorError{
+  color:red;
+}
+
+.text-input__label{
+  font-size: 18px;
+  margin: auto;
+}

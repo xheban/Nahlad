@@ -1,0 +1,51 @@
+@import '../../../node_modules/@carbon/layout/scss/generated/_spacing.scss';
+
+.login__heading{
+  padding-top: $spacing-03;
+  padding-bottom: $spacing-02;
+}
+
+.login__no-acc{
+  font-size: 14px;
+  padding-bottom: $spacing-09;
+}
+
+.login__input{
+  height: 60px;
+  font-size: 20px;
+}
+
+.login__username-input{
+  height: 60px;
+  font-size: 20px;
+}
+
+.login__line{
+  padding-bottom: $spacing-03;
+}
+
+.button-login{
+  display:flex;
+  height: 60px;
+}
+
+.button-login__inside{
+  font-size: 18px;
+  max-width: none;
+  width: 100% !important;
+}
+
+.forget{
+  text-align: right;
+  font-size: 18px;
+}
+
+.inputLabel{
+  display: flex;
+  padding-bottom: $spacing-02;
+  font-size: 18px;
+}
+
+.invalidCredentials{
+  color: red
+}

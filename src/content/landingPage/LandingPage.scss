@@ -1,0 +1,15 @@
+@import '../../../node_modules/@carbon/layout/scss/generated/_spacing.scss';
+
+.landing-page__img{
+  text-align: center;
+  margin: auto;
+  padding: $spacing-08;
+}
+
+.landing-page__heading{
+  font-size: 60px;
+}
+
+.min-width350{
+  min-width: 370px;
+}
